@@ -1,0 +1,11 @@
+D:\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.exe
+D:\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.deps.json
+D:\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.runtimeconfig.json
+D:\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.runtimeconfig.dev.json
+D:\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.dll
+D:\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.pdb
+D:\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.csprojAssemblyReference.cache
+D:\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.AssemblyInfoInputs.cache
+D:\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.AssemblyInfo.cs
+D:\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.dll
+D:\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.pdb
