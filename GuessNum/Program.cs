@@ -33,32 +33,41 @@ namespace GuessNum
             int guesslimit = 3;
             int guessRemain = guesslimit;
             bool outOfGuesses = false; 
+            int[] numRange = {0,1,2,3,4,5,6,7,8,9,10};
+            
 
-            Console.WriteLine("Hey there! Let's play a little guessing game." + "\n" + "Guess the number between 0 and 10.");
+            Console.WriteLine("Hey there! Let's play a little guessing game." + "\n" + "Guess the number between 0 to " +  numRange[numRange.Length -1] + ".");
              
             while (guessNum != bingoNum && !outOfGuesses) 
             {                
                 if (guessCount < guesslimit)
                 {   
                     Console.Write("Guess a number: ");                                        
-                    guessNum = int.Parse(Console.ReadLine());
-                    guessCount++; 
-                    guessRemain--;
-
-                    // Hint
-                    if (guessNum > bingoNum)
+                    guessNum = int.Parse(Console.ReadLine());    
+                    if (guessNum > numRange[numRange.Length - 1] || guessNum < numRange[numRange.Length - numRange.Length])
                     {
-                        Console.Write("Its greater than that" + "\n");
-                    } else if (guessNum < bingoNum)
-                    {
-                        Console.Write("Its less than that" + "\n");
+                        Console.Write("Invalid Number, please try a number between 0 to " + numRange[numRange.Length -1] + "\n");
                     }
-
-                    // Comment for guesses remaining.
-                    if (guessRemain < guesslimit && bingoNum != guessNum && guessRemain != 0)
+                    else 
                     {
-                        Console.Write("You have " + guessRemain + " guesses left!" + "\n" + "\n");
-                    }    
+                        guessCount++; 
+                        guessRemain--;
+
+                        // Hint
+                        if (guessNum > bingoNum)
+                        {
+                            Console.Write("Its greater than that" + "\n");
+                        } else if (guessNum < bingoNum)
+                        {
+                            Console.Write("Its less than that" + "\n");
+                        }
+
+                        // Comment for guesses remaining.
+                        if (guessRemain < guesslimit && bingoNum != guessNum && guessRemain != 0)
+                        {
+                            Console.Write("You have " + guessRemain + " guesses left!" + "\n" + "\n");
+                        } 
+                    }   
                 }                                                
                 else
                 {
@@ -67,7 +76,7 @@ namespace GuessNum
             }
             if (outOfGuesses)
             {
-                Console.Write("You run out of your guesses," + "\n" + "Sorry, You Lose!");
+                Console.Write("Sorry, you run out of your guesses," + "\n" + "You Lose!");
                 
             } 
             else
