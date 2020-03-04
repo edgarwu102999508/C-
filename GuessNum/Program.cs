@@ -26,12 +26,12 @@ namespace GuessNum
             // }
             // Console.WriteLine("Bingo!!!");
 
-            // Guess a Number with limit.
+            // Guess a Number with limit.   
             int bingoNum = 7;
             int guessNum = 0;
             int guessCount = 0;
             int guesslimit = 3;
-            int guessRemain = guesslimit;
+            int guessRemain = guesslimit - guessCount;
             bool outOfGuesses = false; 
             int[] numRange = {0,1,2,3,4,5,6,7,8,9,10};
             
@@ -56,10 +56,10 @@ namespace GuessNum
                         // Hint
                         if (guessNum > bingoNum)
                         {
-                            Console.Write("Its greater than that" + "\n");
+                            Console.Write("Its less than that" + "\n");
                         } else if (guessNum < bingoNum)
                         {
-                            Console.Write("Its less than that" + "\n");
+                            Console.Write("Its greater than that" + "\n");
                         }
 
                         // Comment for guesses remaining.
