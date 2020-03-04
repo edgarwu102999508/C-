@@ -54,7 +54,7 @@ namespace GuessNum
                         Console.Write("Its less than that" + "\n");
                     }
 
-                    // Comment of guesses remaining.
+                    // Comment for guesses remaining.
                     if (guessRemain < guesslimit && bingoNum != guessNum)
                     {
                         Console.Write("You have " + guessRemain + " guesses left!" + "\n" + "\n");
@@ -67,8 +67,7 @@ namespace GuessNum
             }
             if (outOfGuesses)
             {
-                Console.Write("You run out of your guesses," + "\n");
-                Console.Write("Sorry, You Lose!");
+                Console.Write("You run out of your guesses," + "\n" + "Sorry, You Lose!");                
             } 
             else
             {
