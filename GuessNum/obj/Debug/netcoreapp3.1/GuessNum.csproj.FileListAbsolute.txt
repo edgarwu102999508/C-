@@ -1,0 +1,11 @@
+D:\Learning\Swinburne\C_Sharp\GuessNum\bin\Debug\netcoreapp3.1\GuessNum.exe
+D:\Learning\Swinburne\C_Sharp\GuessNum\bin\Debug\netcoreapp3.1\GuessNum.deps.json
+D:\Learning\Swinburne\C_Sharp\GuessNum\bin\Debug\netcoreapp3.1\GuessNum.runtimeconfig.json
+D:\Learning\Swinburne\C_Sharp\GuessNum\bin\Debug\netcoreapp3.1\GuessNum.runtimeconfig.dev.json
+D:\Learning\Swinburne\C_Sharp\GuessNum\bin\Debug\netcoreapp3.1\GuessNum.dll
+D:\Learning\Swinburne\C_Sharp\GuessNum\bin\Debug\netcoreapp3.1\GuessNum.pdb
+D:\Learning\Swinburne\C_Sharp\GuessNum\obj\Debug\netcoreapp3.1\GuessNum.csprojAssemblyReference.cache
+D:\Learning\Swinburne\C_Sharp\GuessNum\obj\Debug\netcoreapp3.1\GuessNum.AssemblyInfoInputs.cache
+D:\Learning\Swinburne\C_Sharp\GuessNum\obj\Debug\netcoreapp3.1\GuessNum.AssemblyInfo.cs
+D:\Learning\Swinburne\C_Sharp\GuessNum\obj\Debug\netcoreapp3.1\GuessNum.dll
+D:\Learning\Swinburne\C_Sharp\GuessNum\obj\Debug\netcoreapp3.1\GuessNum.pdb
