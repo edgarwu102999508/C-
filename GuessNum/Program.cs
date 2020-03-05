@@ -26,14 +26,16 @@ namespace GuessNum
             // }
             // Console.WriteLine("Bingo!!!");
 
-            // Guess a Number with limit.   
-            int bingoNum = 7;
+            // Guess a Number with limit.              
+            Random random = new Random();
+            int bingoNum = random.Next(0,10);            
             int guessNum = 0;
             int guessCount = 0;
             int guesslimit = 3;
             int guessRemain = guesslimit - guessCount;
             bool outOfGuesses = false; 
             int[] numRange = {0,1,2,3,4,5,6,7,8,9,10};
+            
             
 
             Console.WriteLine("Hey there! Let's play a little guessing game." + "\n" + "Guess the number between 0 to " +  numRange[numRange.Length -1] + ".");
@@ -84,5 +86,6 @@ namespace GuessNum
                 Console.Write("Bingo! You Win!!!");
             }
         }
+         
     }
 }
