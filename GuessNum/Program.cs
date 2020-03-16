@@ -34,10 +34,8 @@ namespace GuessNum
             int guesslimit = 3;
             int guessRemain = guesslimit - guessCount;
             bool outOfGuesses = false; 
-            int[] numRange = {0,1,2,3,4,5,6,7,8,9,10};
+            int[] numRange = {0,1,2,3,4,5,6,7,8,9,10};        
             
-            
-
             Console.WriteLine("Hey there! Let's play a little guessing game." + "\n" + "Guess the number between 0 to " +  numRange[numRange.Length -1] + ".");
              
             while (guessNum != bingoNum && !outOfGuesses) 
