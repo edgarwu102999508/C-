@@ -1,0 +1,11 @@
+D:\Swinburne\C_Sharp\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+D:\Swinburne\C_Sharp\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+D:\Swinburne\C_Sharp\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+D:\Swinburne\C_Sharp\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+D:\Swinburne\C_Sharp\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\Swinburne\C_Sharp\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+D:\Swinburne\C_Sharp\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+D:\Swinburne\C_Sharp\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+D:\Swinburne\C_Sharp\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+D:\Swinburne\C_Sharp\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\Swinburne\C_Sharp\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
