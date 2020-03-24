@@ -9,3 +9,14 @@ D:\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSel
 D:\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.AssemblyInfo.cs
 D:\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.dll
 D:\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.pdb
+D:\Learning\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.exe
+D:\Learning\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.deps.json
+D:\Learning\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.runtimeconfig.json
+D:\Learning\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.runtimeconfig.dev.json
+D:\Learning\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.dll
+D:\Learning\Swinburne\C_Sharp\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.pdb
+D:\Learning\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.csprojAssemblyReference.cache
+D:\Learning\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.AssemblyInfoInputs.cache
+D:\Learning\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.AssemblyInfo.cs
+D:\Learning\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.dll
+D:\Learning\Swinburne\C_Sharp\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.pdb

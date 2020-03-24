@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\Swinburne\\C_Sharp\\IntroProgSelection2020\\IntroProgSelection2020.csproj": {}
+    "D:\\Learning\\Swinburne\\C_Sharp\\Submittable Task\\Submittable Task.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\Swinburne\\C_Sharp\\IntroProgSelection2020\\IntroProgSelection2020.csproj": {
+    "D:\\Learning\\Swinburne\\C_Sharp\\Submittable Task\\Submittable Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\Swinburne\\C_Sharp\\IntroProgSelection2020\\IntroProgSelection2020.csproj",
-        "projectName": "IntroProgSelection2020",
-        "projectPath": "D:\\Learning\\Swinburne\\C_Sharp\\IntroProgSelection2020\\IntroProgSelection2020.csproj",
+        "projectUniqueName": "D:\\Learning\\Swinburne\\C_Sharp\\Submittable Task\\Submittable Task.csproj",
+        "projectName": "Submittable Task",
+        "projectPath": "D:\\Learning\\Swinburne\\C_Sharp\\Submittable Task\\Submittable Task.csproj",
         "packagesPath": "C:\\Users\\wuzhe\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\Swinburne\\C_Sharp\\IntroProgSelection2020\\obj\\",
+        "outputPath": "D:\\Learning\\Swinburne\\C_Sharp\\Submittable Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

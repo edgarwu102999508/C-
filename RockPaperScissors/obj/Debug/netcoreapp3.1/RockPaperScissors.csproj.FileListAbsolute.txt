@@ -1,0 +1,11 @@
+D:\Learning\Swinburne\C_Sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+D:\Learning\Swinburne\C_Sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+D:\Learning\Swinburne\C_Sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+D:\Learning\Swinburne\C_Sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+D:\Learning\Swinburne\C_Sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+D:\Learning\Swinburne\C_Sharp\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+D:\Learning\Swinburne\C_Sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csprojAssemblyReference.cache
+D:\Learning\Swinburne\C_Sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+D:\Learning\Swinburne\C_Sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+D:\Learning\Swinburne\C_Sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+D:\Learning\Swinburne\C_Sharp\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
