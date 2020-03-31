@@ -1,0 +1,11 @@
+D:\Learning\Swinburne\C_Sharp\Arrays and Lists\bin\Debug\netcoreapp3.1\Arrays and Lists.exe
+D:\Learning\Swinburne\C_Sharp\Arrays and Lists\bin\Debug\netcoreapp3.1\Arrays and Lists.deps.json
+D:\Learning\Swinburne\C_Sharp\Arrays and Lists\bin\Debug\netcoreapp3.1\Arrays and Lists.runtimeconfig.json
+D:\Learning\Swinburne\C_Sharp\Arrays and Lists\bin\Debug\netcoreapp3.1\Arrays and Lists.runtimeconfig.dev.json
+D:\Learning\Swinburne\C_Sharp\Arrays and Lists\bin\Debug\netcoreapp3.1\Arrays and Lists.dll
+D:\Learning\Swinburne\C_Sharp\Arrays and Lists\bin\Debug\netcoreapp3.1\Arrays and Lists.pdb
+D:\Learning\Swinburne\C_Sharp\Arrays and Lists\obj\Debug\netcoreapp3.1\Arrays and Lists.csprojAssemblyReference.cache
+D:\Learning\Swinburne\C_Sharp\Arrays and Lists\obj\Debug\netcoreapp3.1\Arrays and Lists.AssemblyInfoInputs.cache
+D:\Learning\Swinburne\C_Sharp\Arrays and Lists\obj\Debug\netcoreapp3.1\Arrays and Lists.AssemblyInfo.cs
+D:\Learning\Swinburne\C_Sharp\Arrays and Lists\obj\Debug\netcoreapp3.1\Arrays and Lists.dll
+D:\Learning\Swinburne\C_Sharp\Arrays and Lists\obj\Debug\netcoreapp3.1\Arrays and Lists.pdb
