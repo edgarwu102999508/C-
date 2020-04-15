@@ -1,0 +1,11 @@
+D:\Learning\Swinburne\C_Sharp\FunctionsMethods Submittable Task\bin\Debug\netcoreapp3.1\FunctionsMethods Submittable Task.exe
+D:\Learning\Swinburne\C_Sharp\FunctionsMethods Submittable Task\bin\Debug\netcoreapp3.1\FunctionsMethods Submittable Task.deps.json
+D:\Learning\Swinburne\C_Sharp\FunctionsMethods Submittable Task\bin\Debug\netcoreapp3.1\FunctionsMethods Submittable Task.runtimeconfig.json
+D:\Learning\Swinburne\C_Sharp\FunctionsMethods Submittable Task\bin\Debug\netcoreapp3.1\FunctionsMethods Submittable Task.runtimeconfig.dev.json
+D:\Learning\Swinburne\C_Sharp\FunctionsMethods Submittable Task\bin\Debug\netcoreapp3.1\FunctionsMethods Submittable Task.dll
+D:\Learning\Swinburne\C_Sharp\FunctionsMethods Submittable Task\bin\Debug\netcoreapp3.1\FunctionsMethods Submittable Task.pdb
+D:\Learning\Swinburne\C_Sharp\FunctionsMethods Submittable Task\obj\Debug\netcoreapp3.1\FunctionsMethods Submittable Task.csprojAssemblyReference.cache
+D:\Learning\Swinburne\C_Sharp\FunctionsMethods Submittable Task\obj\Debug\netcoreapp3.1\FunctionsMethods Submittable Task.AssemblyInfoInputs.cache
+D:\Learning\Swinburne\C_Sharp\FunctionsMethods Submittable Task\obj\Debug\netcoreapp3.1\FunctionsMethods Submittable Task.AssemblyInfo.cs
+D:\Learning\Swinburne\C_Sharp\FunctionsMethods Submittable Task\obj\Debug\netcoreapp3.1\FunctionsMethods Submittable Task.dll
+D:\Learning\Swinburne\C_Sharp\FunctionsMethods Submittable Task\obj\Debug\netcoreapp3.1\FunctionsMethods Submittable Task.pdb
