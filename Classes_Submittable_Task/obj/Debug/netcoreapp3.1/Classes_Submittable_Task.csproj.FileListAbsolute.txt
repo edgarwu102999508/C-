@@ -1,0 +1,11 @@
+D:\Learning\Swinburne\C_Sharp\Classes_Submittable_Task\bin\Debug\netcoreapp3.1\Classes_Submittable_Task.exe
+D:\Learning\Swinburne\C_Sharp\Classes_Submittable_Task\bin\Debug\netcoreapp3.1\Classes_Submittable_Task.deps.json
+D:\Learning\Swinburne\C_Sharp\Classes_Submittable_Task\bin\Debug\netcoreapp3.1\Classes_Submittable_Task.runtimeconfig.json
+D:\Learning\Swinburne\C_Sharp\Classes_Submittable_Task\bin\Debug\netcoreapp3.1\Classes_Submittable_Task.runtimeconfig.dev.json
+D:\Learning\Swinburne\C_Sharp\Classes_Submittable_Task\bin\Debug\netcoreapp3.1\Classes_Submittable_Task.dll
+D:\Learning\Swinburne\C_Sharp\Classes_Submittable_Task\bin\Debug\netcoreapp3.1\Classes_Submittable_Task.pdb
+D:\Learning\Swinburne\C_Sharp\Classes_Submittable_Task\obj\Debug\netcoreapp3.1\Classes_Submittable_Task.csprojAssemblyReference.cache
+D:\Learning\Swinburne\C_Sharp\Classes_Submittable_Task\obj\Debug\netcoreapp3.1\Classes_Submittable_Task.AssemblyInfoInputs.cache
+D:\Learning\Swinburne\C_Sharp\Classes_Submittable_Task\obj\Debug\netcoreapp3.1\Classes_Submittable_Task.AssemblyInfo.cs
+D:\Learning\Swinburne\C_Sharp\Classes_Submittable_Task\obj\Debug\netcoreapp3.1\Classes_Submittable_Task.dll
+D:\Learning\Swinburne\C_Sharp\Classes_Submittable_Task\obj\Debug\netcoreapp3.1\Classes_Submittable_Task.pdb
