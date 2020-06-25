@@ -1,0 +1,11 @@
+D:\Learning\Swinburne\C_Sharp\Assignment 1 - Bingo Number Generator\bin\Debug\netcoreapp3.1\Assignment 1 - Bingo Number Generator.exe
+D:\Learning\Swinburne\C_Sharp\Assignment 1 - Bingo Number Generator\bin\Debug\netcoreapp3.1\Assignment 1 - Bingo Number Generator.deps.json
+D:\Learning\Swinburne\C_Sharp\Assignment 1 - Bingo Number Generator\bin\Debug\netcoreapp3.1\Assignment 1 - Bingo Number Generator.runtimeconfig.json
+D:\Learning\Swinburne\C_Sharp\Assignment 1 - Bingo Number Generator\bin\Debug\netcoreapp3.1\Assignment 1 - Bingo Number Generator.runtimeconfig.dev.json
+D:\Learning\Swinburne\C_Sharp\Assignment 1 - Bingo Number Generator\bin\Debug\netcoreapp3.1\Assignment 1 - Bingo Number Generator.dll
+D:\Learning\Swinburne\C_Sharp\Assignment 1 - Bingo Number Generator\bin\Debug\netcoreapp3.1\Assignment 1 - Bingo Number Generator.pdb
+D:\Learning\Swinburne\C_Sharp\Assignment 1 - Bingo Number Generator\obj\Debug\netcoreapp3.1\Assignment 1 - Bingo Number Generator.csprojAssemblyReference.cache
+D:\Learning\Swinburne\C_Sharp\Assignment 1 - Bingo Number Generator\obj\Debug\netcoreapp3.1\Assignment 1 - Bingo Number Generator.AssemblyInfoInputs.cache
+D:\Learning\Swinburne\C_Sharp\Assignment 1 - Bingo Number Generator\obj\Debug\netcoreapp3.1\Assignment 1 - Bingo Number Generator.AssemblyInfo.cs
+D:\Learning\Swinburne\C_Sharp\Assignment 1 - Bingo Number Generator\obj\Debug\netcoreapp3.1\Assignment 1 - Bingo Number Generator.dll
+D:\Learning\Swinburne\C_Sharp\Assignment 1 - Bingo Number Generator\obj\Debug\netcoreapp3.1\Assignment 1 - Bingo Number Generator.pdb

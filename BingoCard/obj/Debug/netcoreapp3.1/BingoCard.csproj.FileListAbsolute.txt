@@ -1,0 +1,11 @@
+D:\Learning\Swinburne\C_Sharp\BingoCard\bin\Debug\netcoreapp3.1\BingoCard.exe
+D:\Learning\Swinburne\C_Sharp\BingoCard\bin\Debug\netcoreapp3.1\BingoCard.deps.json
+D:\Learning\Swinburne\C_Sharp\BingoCard\bin\Debug\netcoreapp3.1\BingoCard.runtimeconfig.json
+D:\Learning\Swinburne\C_Sharp\BingoCard\bin\Debug\netcoreapp3.1\BingoCard.runtimeconfig.dev.json
+D:\Learning\Swinburne\C_Sharp\BingoCard\bin\Debug\netcoreapp3.1\BingoCard.dll
+D:\Learning\Swinburne\C_Sharp\BingoCard\bin\Debug\netcoreapp3.1\BingoCard.pdb
+D:\Learning\Swinburne\C_Sharp\BingoCard\obj\Debug\netcoreapp3.1\BingoCard.csprojAssemblyReference.cache
+D:\Learning\Swinburne\C_Sharp\BingoCard\obj\Debug\netcoreapp3.1\BingoCard.AssemblyInfoInputs.cache
+D:\Learning\Swinburne\C_Sharp\BingoCard\obj\Debug\netcoreapp3.1\BingoCard.AssemblyInfo.cs
+D:\Learning\Swinburne\C_Sharp\BingoCard\obj\Debug\netcoreapp3.1\BingoCard.dll
+D:\Learning\Swinburne\C_Sharp\BingoCard\obj\Debug\netcoreapp3.1\BingoCard.pdb
