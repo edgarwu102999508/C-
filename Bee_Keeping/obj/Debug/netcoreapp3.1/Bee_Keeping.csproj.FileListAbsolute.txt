@@ -1,0 +1,11 @@
+D:\Learning\Swinburne\C_Sharp\Bee_Keeping\bin\Debug\netcoreapp3.1\Bee_Keeping.exe
+D:\Learning\Swinburne\C_Sharp\Bee_Keeping\bin\Debug\netcoreapp3.1\Bee_Keeping.deps.json
+D:\Learning\Swinburne\C_Sharp\Bee_Keeping\bin\Debug\netcoreapp3.1\Bee_Keeping.runtimeconfig.json
+D:\Learning\Swinburne\C_Sharp\Bee_Keeping\bin\Debug\netcoreapp3.1\Bee_Keeping.runtimeconfig.dev.json
+D:\Learning\Swinburne\C_Sharp\Bee_Keeping\bin\Debug\netcoreapp3.1\Bee_Keeping.dll
+D:\Learning\Swinburne\C_Sharp\Bee_Keeping\bin\Debug\netcoreapp3.1\Bee_Keeping.pdb
+D:\Learning\Swinburne\C_Sharp\Bee_Keeping\obj\Debug\netcoreapp3.1\Bee_Keeping.csprojAssemblyReference.cache
+D:\Learning\Swinburne\C_Sharp\Bee_Keeping\obj\Debug\netcoreapp3.1\Bee_Keeping.AssemblyInfoInputs.cache
+D:\Learning\Swinburne\C_Sharp\Bee_Keeping\obj\Debug\netcoreapp3.1\Bee_Keeping.AssemblyInfo.cs
+D:\Learning\Swinburne\C_Sharp\Bee_Keeping\obj\Debug\netcoreapp3.1\Bee_Keeping.dll
+D:\Learning\Swinburne\C_Sharp\Bee_Keeping\obj\Debug\netcoreapp3.1\Bee_Keeping.pdb

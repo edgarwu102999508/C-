@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 
 namespace Assignment_1___Bingo_Number_Generator
@@ -7,6 +8,8 @@ namespace Assignment_1___Bingo_Number_Generator
   {
     static void Main(string[] args)
     {
+      List<int> bingoNums = new List<int>();
+      List<int> numList = new List<int>();
 
       // Main Menu
       string userChoice = string.Empty;
@@ -29,22 +32,40 @@ namespace Assignment_1___Bingo_Number_Generator
           }
           else
           {
-            DrawNumber();
+            drawNumber(bingoNums, numList);
             Console.WriteLine("\n");
+            Console.Write("Press any key to continue...");
+            Console.ReadLine();
             continue;
           }
         }
         else if (userChoice.Contains("2"))
         {
           System.Console.WriteLine("1. View all drawn numbers");
-          System.Console.WriteLine("2. Back");
+          System.Console.WriteLine("2. Sort drawn numbers");
+          System.Console.WriteLine("3. Back");
           userChoice = Console.ReadLine();
-          if (userChoice.Contains("2"))
+          if (userChoice.Contains("3"))
           {
+            continue;
+          }
+          else if (userChoice.Contains("2"))
+          {
+            sortList(bingoNums);
+            Console.WriteLine("\n");
+            Console.Write("Press any key to continue...");
+            Console.ReadLine();
             continue;
           }
           else
           {
+            foreach (var x in numList)
+            {
+              System.Console.Write(x);
+            }
+            Console.WriteLine("\n");
+            Console.Write("Press any key to continue...");
+            Console.ReadLine();
             continue;
           }
         }
@@ -66,32 +87,40 @@ namespace Assignment_1___Bingo_Number_Generator
 
       } while (!userChoice.Contains("4"));
 
+
+      static void drawNumber(List<int> bingoNums, List<int> numList)
+      {
+        int Min = 0;
+        int Max = 10;
+        Random randomNum = new Random();
+        System.Console.Write("\n" + "Input the Max number: ");
+        Max = int.Parse(Console.ReadLine());
+        while (Max <= 0)
+        {
+          System.Console.WriteLine("The number can not be a Negative Number or Zero, Please try again.");
+          Max = int.Parse(Console.ReadLine());
+        }
+
+        System.Console.Write("> ");
+        for (int i = 0; i < Max; i++)
+        {
+          bingoNums.Add(Max);
+          Console.Write(randomNum.Next(Min, Max));
+          System.Console.Write(" ");
+        }
+
+        numList.AddRange(bingoNums);
+      }
     }
 
-
-    public static Array DrawNumber()
+    static void sortList(List<int> bingoNums)
     {
-      int Min = 0;
-      int Max = 0;
-      int[] bingoNum;
-      Random randomNum = new Random();
-
-      System.Console.Write("Input the Max number: ");
-      Max = int.Parse(Console.ReadLine());
-      while (Max <= 0)
+      bingoNums.Sort();
+      foreach (int x in bingoNums)
       {
-        System.Console.WriteLine("The number can not be a Negative Number or Zero, Please try again.");
-        Max = int.Parse(Console.ReadLine());
+        System.Console.Write(x);
       }
-
-      bingoNum = new int[Max];
-      for (int i = 0; i < bingoNum.Length; i++)
-      {
-        int Num = bingoNum[i];
-        Console.Write(randomNum.Next(Min, Max));
-        System.Console.Write(" ");
-      }
-      return bingoNum;
     }
   }
+
 }
