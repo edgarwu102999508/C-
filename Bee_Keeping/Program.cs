@@ -25,7 +25,7 @@ namespace Bee_Keeping
       bees2.AddBee(bee6);
       bees2.AddBee(bee7);
 
-      System.Console.WriteLine(bees1);
+      System.Console.WriteLine(bees2);
 
 
 
